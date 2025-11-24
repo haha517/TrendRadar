@@ -2,7 +2,12 @@
 加密货币
 BTC
 
+纳斯达克综合指数
+INDEXNASDAQ
+
 稳定币
+USDT
+USDC
 
 股票
 美股
